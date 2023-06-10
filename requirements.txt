@@ -2,4 +2,4 @@ fastAPI
 uvicorn
 pandas
 joblib
-sklearn
+scikit-learn
